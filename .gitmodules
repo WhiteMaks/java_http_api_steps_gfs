@@ -1,0 +1,3 @@
+[submodule "swagger-http-api-steps"]
+	path = swagger-http-api-steps
+	url = https://github.com/WhiteMaks/java_swagger_http_api_steps.git

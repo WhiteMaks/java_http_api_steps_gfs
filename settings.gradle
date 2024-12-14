@@ -1,0 +1,4 @@
+rootProject.name = 'java_http_api_steps_gfs'
+
+include 'swagger-http-api-steps'
+include 'swagger-http-api-steps:base-http-api'
